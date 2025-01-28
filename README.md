@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MJ</h1>
-<h3 align="center">A passionate developer from Maryland, USA</h3>
+<h3 align="center">A developer from Maryland, USA</h3>
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java, HTML/CSS, x86/64**
+- 💬 Ask me about **Java, x86/64**
 
 - 📫 How to reach me **mutsajmlambo@gmail.com**
 
