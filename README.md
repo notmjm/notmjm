@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mutsajmlambo@gmail.com**
 
-- ⚡ Fun fact **I've been in 8 countries**
+- ⚡ Fun fact **I make music too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
