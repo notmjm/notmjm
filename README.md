@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **settr.**
 
-- 🌱 I’m currently learning **Python, React Native, JavaScript**
+- 🌱 I’m currently learning **Python, React Native, JavaScript, SQL**
 
 - 💬 Ask me about **Java, Assembly, HTML/CSS**
 
